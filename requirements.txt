@@ -65,7 +65,7 @@ kiwisolver==1.0.1
 kmapper==1.1.6
 llvmlite==0.27.0
 lockfile==0.12.2
-lxml==4.3.0
+lxml==4.6.3
 Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.0
