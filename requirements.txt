@@ -21,7 +21,7 @@ dask==1.1.0
 decorator==4.3.0
 dill==0.2.9
 dionysus==2.0.6
-distributed==1.25.2
+distributed==2021.10.0
 ecos==2.0.7.post1
 entrypoints==0.2.3
 fastcache==1.0.2
